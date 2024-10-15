@@ -1,7 +1,15 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "force-app/src-corecrm",
+      "default": true
+    }
+    {
+      "path": "force-app/src-ps",
+      "default": true
+    }
+    {
+      "path": "force-app/src-sales-app",
       "default": true
     }
   ],
